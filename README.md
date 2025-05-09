@@ -10,7 +10,7 @@ A geo-targeted service finder API and web application that helps users locate ne
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/yourusername/geo-service-finder.git
+git clone https://github.com/Richjerk/geo-service-finder.git
 
 2. Install dependencies:
 npm install
